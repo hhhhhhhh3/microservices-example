@@ -1,7 +1,7 @@
 package com.hh3.inventoryservice.service;
 
 import com.hh3.inventoryservice.repository.InventoryRepository;
-import dto.InventoryResponse;
+import com.hh3.inventoryservice.dto.InventoryResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

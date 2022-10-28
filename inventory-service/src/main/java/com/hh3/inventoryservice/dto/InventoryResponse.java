@@ -1,4 +1,4 @@
-package dto;
+package com.hh3.inventoryservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

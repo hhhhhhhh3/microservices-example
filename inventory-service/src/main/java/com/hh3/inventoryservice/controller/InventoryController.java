@@ -1,7 +1,7 @@
 package com.hh3.inventoryservice.controller;
 
 import com.hh3.inventoryservice.service.InventoryService;
-import dto.InventoryResponse;
+import com.hh3.inventoryservice.dto.InventoryResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
