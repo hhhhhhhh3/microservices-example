@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.hh3.productservice.ProductServiceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.28 s - in com.hh3.productservice.ProductServiceApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.943 s - in com.hh3.productservice.ProductServiceApplicationTests

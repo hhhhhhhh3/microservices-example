@@ -1,5 +1,7 @@
 com\hh3\inventoryservice\service\InventoryService.class
-com\hh3\inventoryservice\InventoryServiceApplication.class
 com\hh3\inventoryservice\controller\InventoryController.class
-com\hh3\inventoryservice\repository\InventoryRepository.class
 com\hh3\inventoryservice\model\Inventory.class
+com\hh3\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\hh3\inventoryservice\InventoryServiceApplication.class
+com\hh3\inventoryservice\repository\InventoryRepository.class
+com\hh3\inventoryservice\dto\InventoryResponse.class

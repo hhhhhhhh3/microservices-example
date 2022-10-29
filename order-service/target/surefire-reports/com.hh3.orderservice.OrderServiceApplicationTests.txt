@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.hh3.orderservice.OrderServiceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.727 s - in com.hh3.orderservice.OrderServiceApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.404 s - in com.hh3.orderservice.OrderServiceApplicationTests
